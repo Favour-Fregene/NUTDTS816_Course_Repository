@@ -14,7 +14,7 @@ notebooks/   lab00_familiarisation.ipynb … lab24_synthesis_and_examination_pre
 src/         tsdata.py      the data module used by every notebook and by the lecture notes
 data/        CSV snapshots: Nigerian series (simulated placeholders until the real snapshots are dropped in) and the
              textbook series (real, cached from the fpp2 / base-R collections so labs do not depend on live downloads)
-docs/        syllabus, assessment briefs and lecture notes (copied from the course documents)
+docs/        redacted
 requirements.txt
 ```
 
