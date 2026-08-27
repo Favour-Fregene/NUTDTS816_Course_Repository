@@ -1,0 +1,7 @@
+nigeria_fx.csv: REAL. Monthly average official NGN/USD, Jan 2015 - Jul 2026 (139 months), computed as monthly means of
+the CBN daily official Central Rate (CBN exchange-rate export, 2007-2026; partial Aug 2026 excluded). Single source,
+single definition: the OFFICIAL rate throughout - pegged windows (~197 / ~305 / ~379) before the June 2023 unification,
+NAFEM/NFEM market-based rate after. The I&E/parallel windows ran up to ~18% higher during 2017-2021; state which window
+is meant when interpreting the level. Includes the Feb-Mar 2024 devaluation and the real Apr 2024 rally (~1,237).
+Cross-checks: BIS XRU monthly NGN/USD agrees to 0.16% median over 137 months; NFEM daily-derived means to 0.03%.
+Downloaded 24-25 Aug 2026. See raw/EXTRACTION_NOTES.md.

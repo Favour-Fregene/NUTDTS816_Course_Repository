@@ -1,0 +1,3 @@
+bonny_light.csv: REAL. Bonny Light monthly average price (USD/bbl), Jan 2015 - Jun 2026 (138 months), from the Central
+Bank of Nigeria crude oil statistics (crudeOilPrice column; source also carries 2006-2014 and production/export volumes).
+Note: a +47% m/m move in Mar 2026 and the 2020 COVID-era swings are in the source data. Downloaded 24 Aug 2026.

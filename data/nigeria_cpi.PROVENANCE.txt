@@ -1,0 +1,10 @@
+nigeria_cpi.csv: REAL. Nigeria all-items CPI, continuous monthly series Jan 2014 - Dec 2025 on the 2024=100 basis.
+Built by splicing two official NBS series: (a) 2009-base composite all-items index from the NBS "December 2024 CPI Tables"
+workbook (final old-base publication), Jan 2014 - Dec 2023, divided by the constant 7.6183; (b) the rebased 2024=100 index
+from the NBS "December 2025 CPI Tables" workbook, Jan 2024 - Dec 2025, as published. The factor 7.6183 is exact: the NBS
+2024 back-cast equals the old series divided by this constant in all 12 overlap months (CV 0.000%). KNOWN FEATURE: the
+published index steps DOWN -2.83% from Dec 2024 (113.91) to Jan 2025 (110.68). This is the documented methodological seam
+of the rebasing, not deflation; models crossing Jan 2025 should carry a level-shift dummy. YoY rates computed from the
+index do not reproduce NBS's announced rates for early 2025; they align from later 2025. Cross-checked against the CBN
+SDMS export (123 months, within rounding) and the World Bank Global Database of Inflation (132 months, within 0.001%).
+Downloaded 24-25 Aug 2026. See raw/EXTRACTION_NOTES.md.

@@ -1,0 +1,6 @@
+nigeria_rain_obs.csv: REAL. Observed monthly rainfall (mm, monthly totals), Jan 2019 - Dec 2025 (84 months), NASA POWER
+(MERRA-2, PRECTOTCORR), cosine-latitude-weighted regional mean over 7.0-13.0 N x 10.0-11.875 E (north-east Nigeria
+corridor), converted from mm/day. 2023 is a genuinely weak wet season (peak ~4 mm/day vs ~8-9 in 2022) - a real feature.
+NOTE: this observed series is NOT the rainfall paired with nigeria_malaria.csv; the case-study pair (nigeria_malaria +
+nigeria_rainfall) is the internally consistent simulated pair. Use this file for decomposition/EDA and projects.
+Downloaded 24 Aug 2026.

@@ -1,0 +1,6 @@
+daily_demand.csv: REAL. Daily electricity demand in GWh, 1 Jan 2022 - 22 Aug 2026 (1,695 days, no gaps), PJM
+Interconnection (United States), from the US EIA Hourly Electric Grid Monitor (EIA-930 per-BA file). Hourly demand with
+EIA's imputed values where flagged, summed to local days; three fall-DST days with one empty duplicated-hour row scaled
+to their true 25-hour length; trailing partial day dropped. Strong weekly and annual seasonality with US holiday effects
+(use US federal holidays for calendar features). An ERCOT equivalent is available from the instructor. Downloaded
+24 Aug 2026.

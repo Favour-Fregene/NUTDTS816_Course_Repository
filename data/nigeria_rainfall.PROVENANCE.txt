@@ -1,0 +1,4 @@
+nigeria_rainfall.csv: SIMULATED stand-in (course-generated, seeded; see src/tsdata.py), monthly rainfall Jan 2019 -
+Jun 2026, the pair generated for nigeria_malaria.csv (Case Study 2). Kept simulated so the malaria-rainfall relationship
+the case study interrogates is internally consistent. For OBSERVED rainfall use nigeria_rain_obs.csv (NASA POWER,
+Jan 2019 - Dec 2025). Quote this provenance statement in any memo that uses the series.

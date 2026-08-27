@@ -1,0 +1,6 @@
+nigeria_malaria.csv: SIMULATED stand-in (course-generated, seeded; see src/tsdata.py) matching the shape of a state-level
+NCDC weekly confirmed-malaria series: 391 epi-weeks ending Sunday, Jan 2019 - Jun 2026, seasonal with a documented
+outbreak (epi-weeks 31-41 of 2022, ~1.8x seasonal expectation). Kept simulated deliberately: state-level NCDC weekly
+malaria counts are not publicly downloadable, and Case Study 2's design (rainfall lead, outbreak handling, count models)
+requires a series and rainfall pair with a known, internally consistent structure. For REAL weekly epidemic data see
+nigeria_covid.csv. Quote this provenance statement in any memo that uses the series.

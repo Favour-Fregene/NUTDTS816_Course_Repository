@@ -1,0 +1,4 @@
+nigeria_covid.csv: REAL. Nigeria weekly confirmed COVID-19 cases, week-ending Sunday, 15 Mar 2020 - 8 Jan 2023
+(148 weeks, no gaps), from the WHO COVID-19 dashboard global dataset. The window is Nigeria's longest continuous
+official reporting run; weeks outside it are non-reports (null), NOT zeros - do not zero-fill or extend. Three epidemic
+waves, peak week 12,531 cases. Downloaded 24 Aug 2026.

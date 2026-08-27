@@ -1,0 +1,4 @@
+nigeria_grid.csv: REAL. Nigeria monthly grid generation as average MW, Jan 2019 - Apr 2026 (88 months), from Ember
+Monthly Electricity Data (CC-BY-4.0), "Total generation" rows, converted from TWh/month (TWh x 1e6 / hours in month).
+Replaces the originally planned NERC/TCN/NSO source, which proved unavailable. Level 3,200-4,600 MW, consistent with the
+Nigerian grid's operating range. Downloaded 24 Aug 2026. See raw/EXTRACTION_NOTES.md.
